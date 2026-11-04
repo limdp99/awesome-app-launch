@@ -23,6 +23,7 @@ Free places to launch a new iPhone or Android app — with the rules that trip p
 - [Uneed](https://www.uneed.best) — One product in the free queue at a time; months long.
 - [Peerlist Launchpad](https://peerlist.io) — One launch at a time, weekly.
 - [ScrollLaunch](https://www.scrolllaunch.com) — One product per domain.
+- [MEDIAPRONET](https://mediapronet.com/submit) — Startups, SaaS and indie apps. The free listing needs the badge on your homepage and goes live after at least 7 days.
 
 ## Launch days and communities
 - [Product Hunt](https://www.producthunt.com) — Once per product. Tuesday–Thursday, 12:00 a.m. Pacific.
